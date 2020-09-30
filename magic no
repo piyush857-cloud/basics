@@ -1,6 +1,6 @@
 public class magic_number
 {
-public static void main(int n)// Enter a number
+public static void main(int n)
 {
 int d,s;
 s=n;
