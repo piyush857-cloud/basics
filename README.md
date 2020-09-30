@@ -1,2 +1,2 @@
 # basics
-this is for beginner
+this is the beginning
